@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Dabogkie
+- 👋 Hi, I’m @Kenneth Rei Lopez
+-
 - 👀 I’m interested in coding and designing a website
 - 🌱 I’m currently learning programming 
 - 💞️ I’m looking to collaborate on ...
